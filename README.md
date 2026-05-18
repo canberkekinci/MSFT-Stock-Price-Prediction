@@ -44,4 +44,4 @@ En iyi model **LightGBM** oldu. ROC-AUC ~0.57 civarında çıktı ki bu hisse se
 - 9737 gözlem, 7 orijinal kolon
 
 ---
-*Yapan: ML öğrencisi — Kasım 2024*
+
