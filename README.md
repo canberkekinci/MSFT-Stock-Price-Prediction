@@ -35,7 +35,7 @@ jupyter notebook MSFT_ml_notebook.ipynb
 
 ## Sonuçlar (Özet)
 
-En iyi model **LightGBM** oldu. ROC-AUC ~0.57 civarında çıktı ki bu hisse senedi tahmininde fena sayılmaz (piyasalar gerçekten zor şeyler).
+En iyi model **LightGBM** oldu. ROC-AUC ~0.54 civarında çıktı ki bu hisse senedi tahmininde fena sayılmaz (piyasalar gerçekten zor şeyler).
 
 ## Notlar
 
